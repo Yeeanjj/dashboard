@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Yeeanjj.io/dashboard/static/css/main.e6c13ad2.css",
-    "main.js": "/Yeeanjj.io/dashboard/static/js/main.dc9613f1.js",
-    "static/js/787.545aecf5.chunk.js": "/Yeeanjj.io/dashboard/static/js/787.545aecf5.chunk.js",
-    "static/media/android.svg": "/Yeeanjj.io/dashboard/static/media/android.4cf2d04ecf4c2a3d2e84aa7d03493f53.svg",
-    "index.html": "/Yeeanjj.io/dashboard/index.html",
-    "static/media/apple.svg": "/Yeeanjj.io/dashboard/static/media/apple.e32afc03669f2e1d7e1b97c8b344ff6d.svg",
-    "static/media/windows.svg": "/Yeeanjj.io/dashboard/static/media/windows.ce2e79e89dff91fb6eae286e570d64a0.svg",
-    "main.e6c13ad2.css.map": "/Yeeanjj.io/dashboard/static/css/main.e6c13ad2.css.map",
-    "main.dc9613f1.js.map": "/Yeeanjj.io/dashboard/static/js/main.dc9613f1.js.map",
-    "787.545aecf5.chunk.js.map": "/Yeeanjj.io/dashboard/static/js/787.545aecf5.chunk.js.map"
+    "main.css": "/gguriman.me/dashboard/static/css/main.e6c13ad2.css",
+    "main.js": "/gguriman.me/dashboard/static/js/main.655c26da.js",
+    "static/js/787.545aecf5.chunk.js": "/gguriman.me/dashboard/static/js/787.545aecf5.chunk.js",
+    "static/media/android.svg": "/gguriman.me/dashboard/static/media/android.4cf2d04ecf4c2a3d2e84aa7d03493f53.svg",
+    "index.html": "/gguriman.me/dashboard/index.html",
+    "static/media/apple.svg": "/gguriman.me/dashboard/static/media/apple.e32afc03669f2e1d7e1b97c8b344ff6d.svg",
+    "static/media/windows.svg": "/gguriman.me/dashboard/static/media/windows.ce2e79e89dff91fb6eae286e570d64a0.svg",
+    "main.e6c13ad2.css.map": "/gguriman.me/dashboard/static/css/main.e6c13ad2.css.map",
+    "main.655c26da.js.map": "/gguriman.me/dashboard/static/js/main.655c26da.js.map",
+    "787.545aecf5.chunk.js.map": "/gguriman.me/dashboard/static/js/787.545aecf5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.dc9613f1.js"
+    "static/js/main.655c26da.js"
   ]
 }
